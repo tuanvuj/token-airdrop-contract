@@ -13,19 +13,14 @@
 
 ## Setting Up
 
-### 1. Clone/Download the Repository
-
-### 2. Install Dependencies:
+### 1. Install Dependencies:
 ```
 $ cd erc20_airdrop
 $ npm install
 ```
 
-### 3. Run air drop test script
+### 2. Run air drop test script
 `$ npx hardhat test`
 
-License
-----
-MIT
 
 
